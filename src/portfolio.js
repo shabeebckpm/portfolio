@@ -48,8 +48,8 @@ const Portfolio = () => {
 
             <section id="contact" className="section">
                 <h2>Contact Me</h2>
-                <p>Email:<a href="shabeebckpm@gmail.com">shabeebckpm@gmail.com</a> </p>
-                <p>LinkedIn: <a href="www.linkedin.com/in/shabeebckpm">Shabeeb C</a></p>
+                <p>Email:<a href="https://mailto:shabeebckpm@gmail.com">shabeebckpm@gmail.com</a> </p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/shabeebckpm/">Shabeeb C</a></p>
                 <p>GitHub: <a href="https://github.com/shabeebckpm">Shabeebckpm github</a></p>
             </section>
 
