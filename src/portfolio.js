@@ -10,7 +10,7 @@ const Portfolio = () => {
                     SHABEEB C
                 </motion.h1>
                 <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5, duration: 1 }} className="subtitle">
-                    Flutter Developer | Python Enthusiast | IT Support
+                    Flutter Developer | Data Analyst | IT Support
                 </motion.p>
                 <nav className="nav">
                     <ul>
